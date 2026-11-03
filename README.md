@@ -41,7 +41,23 @@ Instead of a traditional portfolio website, I wanted to create an experience whe
 
 ## 📸 Screenshots
 
-Screenshots of the portfolio experience will be added here.
+### 🚀 Main Title
+![Main Title](screenshots/main-title.png)
+
+### 🛫 Launchpad
+![Launchpad](screenshots/launchpad.png)
+
+### 🪐 Solar System
+![Solar System](screenshots/solar-system.png)
+
+### 👨‍🚀 Mars — About Me
+![Mars About Me](screenshots/mars-about-me.png)
+
+### 🪐 Saturn — Projects
+![Saturn Projects](screenshots/saturn-projects.png)
+
+### 🏆 Uranus — Achievement Hall
+![Uranus Achievements](screenshots/uranus-achievements.png)
 
 ## 🎯 What I Learned
 
